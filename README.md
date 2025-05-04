@@ -1,73 +1,102 @@
-<h1 align="center">📘 Sulav Gautam - 3D Flipbook Portfolio</h1>
+## **Pages For You — A Digital Love Letter Built with React & Three.js**
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1324395446936010775/1361041095265489129/Screenshot_2025-04-13_at_23.56.01.png?ex=67fd4fcc&is=67fbfe4c&hm=220b12bd5ada0f2e9e24f36cf41b5a3f9223b04c94d46ed8dd8f192e243850c3&" alt="Sulav Gautam 3D Flipbook Preview" width="100%" />
+  <img src="./preview.png" alt="Pages For You Project Preview" width="100%" />
 </p>
 
 <p align="center">
-  <strong>A modern and immersive page-flipping experience built with React.</strong><br/>
-  A creative fusion of design and interactivity – representing the digital identity .
-</p>
-
----
-
-## 🚀 Live Preview
-
-> Coming Soon – Stay tuned!
-
----
-
-## ✨ Key Features
-
-- 🎯 **Built with React** – Component-based, scalable, and fast
-- 🌀 **3D Page Flip Animation** – Smooth transitions between cover and inner pages
-- 🌌 **Dark Mode Aesthetic** – Elegant black & purple gradient theme
-- 🖋️ **Personal Branding** – Every page proudly reflects the _Sulav Gautam_ identity
-- 📚 **Intuitive Page Navigation** – Easily explore each section (Cover → Page 1–8 → Back Cover)
-
----
-
-## 🧠 Project Overview
-
-| Section      | Details                                                    |
-| ------------ | ---------------------------------------------------------- |
-| `Cover`      | Eye-catching intro with name & brand visual                |
-| `Page 1 - 8` | Modular sections (About, Skills, Projects, Timeline, etc.) |
-| `Back Cover` | Clean closure with contact info or a call-to-action        |
-
----
-
-## 🛠 Tech Stack
-
-| Tech            | Description                       |
-| --------------- | --------------------------------- |
-| ⚛️ React        | Frontend framework (SPA)          |
-| 💅 CSS / SCSS   | Styling with gradients & shadows  |
-| 🎨 UI/UX Design | Premium layout & page transitions |
-| 🎥 Animation    | 3D page rotation effects          |
-
----
-
-## 📸 Screenshot
-
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1324395446936010775/1361041095265489129/Screenshot_2025-04-13_at_23.56.01.png?ex=67fd4fcc&is=67fbfe4c&hm=220b12bd5ada0f2e9e24f36cf41b5a3f9223b04c94d46ed8dd8f192e243850c3&" alt="3D Page Flip Screenshot" width="75%" />
+  <strong>A heartfelt, interactive 3D web experience</strong><br/>
+  Built with love by <a href="https://github.com/iamsulavgautam" target="_blank">Sulav Gautam</a> — for <strong>Ridam Ghimire</strong>
 </p>
 
 ---
 
-## 🔧 Getting Started
+## About the Project
+
+**Pages For You** is not just a website — it’s a digital expression of love, carefully crafted as a birthday tribute. This emotional project merges React, Three.js, and creative storytelling to build a 3D flipbook experience that brings personal memories to life.
+
+Gifted to Ridam Ghimire, this site blends emotional connection with technical creativity — a modern love letter written in code.
+
+---
+
+## What Makes This Special
+
+- Built with React & Three.js using React Three Fiber for immersive rendering
+- Realistic 3D page-flip mechanics to simulate a physical memory book
+- Audio-enhanced interaction with custom flip sounds
+- Elegant visual design using gradients, floating text, and soft motion
+- Responsive design for mobile, tablet, and desktop
+- Memory gallery where each page tells a personal story
+
+---
+
+## Tech Stack
+
+| Category         | Technology                                 |
+| ---------------- | ------------------------------------------ |
+| Frontend         | React 18 + Vite                            |
+| 3D Rendering     | Three.js + React Three Fiber               |
+| Styling          | Tailwind CSS + custom CSS                  |
+| State Management | Jotai (atomic global state)                |
+| Assets           | Optimized images, sounds, custom 3D assets |
+
+---
+
+## Unique Features
+
+- Custom 3D book physics with realistic page curvature
+- Dynamic lighting effects and shadows
+- Smooth transitions with attention to emotional pacing
+- Emotionally driven development — where engineering meets meaning
+
+---
+
+## Getting Started
 
 ```bash
-# Clone the repository
-git clone https://github.com/iamsulavgautam/flipbook-portfolio.git
+# Clone the project
+git clone https://github.com/iamsulavgautam/pagesforyou
 
-# Navigate into the directory
-cd flipbook-portfolio
+# Navigate to folder
+cd pages-for-you
 
 # Install dependencies
 npm install
 
-# Start the development server
+# Run locally
 npm run dev
 ```
+
+> Note: This is a personal and emotional project. The content is unique and not meant for reuse.
+
+---
+
+## Design Philosophy
+
+> “Minimal UI, Maximum Emotion”
+
+- Dark-themed glow background for intimacy
+- Slow-floating text for a dreamy mood
+- 3D book interactions that feel real and personal
+- Handpicked visuals with meaningful context
+
+---
+
+## Why This Exists
+
+Sometimes, code speaks louder than words.
+This project is a bridge between emotional memory and technical creativity.
+Not just a portfolio — but a digital story. A silent letter. A page turned.
+
+---
+
+## Final Note
+
+This tribute represents connection, memory, and vulnerability — all crafted in lines of code.
+Not built for popularity, but for someone who mattered.
+
+---
+
+<p align="center"><i>Made with love, memory, and code — by <a href="https://github.com/iamsulavgautam">Sulav Gautam</a></i></p>
+
+---
