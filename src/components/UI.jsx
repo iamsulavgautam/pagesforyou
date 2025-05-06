@@ -5,7 +5,7 @@ const pictures = [
   "DSC00933",
   "DSC00966",
   "DSC00983",
-  "DSC01011",
+  "DSC01019",
   "DSC00967",
   "DSC00984",
   "DSC01071",
