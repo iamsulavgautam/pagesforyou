@@ -7,7 +7,7 @@ const pictures = [
   "DSC00983",
   "DSC01011",
   "DSC00967",
-  "DSC01011",
+  "DSC00984",
   "DSC01071",
   "DSC00680",
 ];
